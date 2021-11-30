@@ -1,0 +1,54 @@
+{
+    "name": "formName",
+
+     "title": "A registration form",
+
+     "description": "Login form example.",
+
+     "method": "post",
+
+     "enctype": "multipart/form-data",
+
+     "action": "form4.php",
+
+     "properties": {
+      
+     "firstName": {
+        
+          "type": "input",
+
+          "title": "User Login",
+          "name":"Login",
+
+          "required": true,
+
+          "onChange":"console.log(this.value)"
+
+                  },
+
+      "password": {
+           "type": "password",
+           "title": "Password",
+
+           "name":"Password",
+           "required": true,
+
+   
+        "min": 3
+
+                  },
+
+
+       "submit":  {
+
+            "type": "submit",
+
+            "title": "Save Form",
+
+             "name":"submit"
+     
+                  }
+
+                   }
+
+}

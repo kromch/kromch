@@ -1,0 +1,42 @@
+[
+{
+  "dealer": "www.mercedes-amg.com",
+   "question": "What A-class Of Mercedes-Benz is available for sell?",
+
+   "answers": [
+ 
+    { "class":"A-class", "modelauto": "Mercedes-Benz A 190 L", "price": "41500", "yop":2001 , "power":
+"92 kW", "aval":true },
+          
+
+    { "class":"A-class", "modelauto": "Mercedes-Benz A 210 Evolution L", "price": "37500", "yop":2002, "power":"103 kW","aval":true },
+    { "class":"A-class", "modelauto": "Mercedes-Benz A 170 CDI L", "price": "29500", "yop":2001, "power":"70 kW","aval":false }
+              ]
+},
+{
+  "dealer": "mercedes-benz-kiev.com",
+  "question": "What C-class Of Mercedes-Benz is available for sell?" ,
+
+   "answers": [
+ 
+    { "class":"C-class", "modelauto": "Mercedes-Benz C 400 4MATIC", "price": "71500", "yop":2014 , "power":
+"245 kW", "aval":true },
+          
+
+    { "class":"C-class", "modelauto": "Mercedes-Benz C 63 AMG S ", "price": "87500", "yop":2014, "power":"375 kW", "aval":false },
+    { "class":"C-class", "modelauto": "Mercedes-Benz C 250 BlueTEC 4MATIC ", "price": "79500", "yop":2014, "power":"150 kW","aval":true }
+              ]
+},
+{
+  "dealer": "www.mercedesbenzportland.com",
+    "question": "What E-class Of Mercedes-Benz is available for sell?" ,
+
+   "answers": [
+ 
+    { "class":"E-class", "modelauto": "Mercedes-Benz E 200 CGI BlueEFFICIENCY ", "price": "41500", "yop":2009 , "power":
+"184 kW", "aval":true },
+       { "class":"E-class", "modelauto": "Mercedes-Benz E 350 CDI BlueTec", "price": "57500", "yop":2009, "power":"211 kW","aval":false },
+    { "class":"E-class", "modelauto": "Mercedes-Benz E 500 4-Matic", "price": "69500", "yop":2009, "power":"388 kW","aval":false }
+              ]
+}
+]
